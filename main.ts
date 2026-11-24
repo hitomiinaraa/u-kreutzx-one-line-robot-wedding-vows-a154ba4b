@@ -1,6 +1,7 @@
 // One-Line Robot Wedding Vows — make.fun entry.
 // Writes the single winning vow to /output/entry.txt (exactly 108 chars, one line, no trailing newline).
 // The vow: a wedding promise, robot-swapped — Wi-Fi, airplane mode, low battery.
+// A vow is only as strong as the things it refuses to give up on.
 import fs from "node:fs";
 
 const VOW =
